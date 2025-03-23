@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wealth Inequality Blog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Wealth Inequality Blog</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>About This Blog</h2>
+        <p>Exploring the causes, effects, and possible solutions to wealth inequality around the world.</p>
+    </section>
+    
+    <section id="blog">
+        <h2>Latest Articles</h2>
+        <article>
+            <h3>The Growing Wealth Gap</h3>
+            <p>A deep dive into why the rich are getting richer and the poor are getting poorer.</p>
+            <a href="#">Read more</a>
+        </article>
+        <article>
+            <h3>Taxation & Inequality</h3>
+            <p>How different tax systems impact wealth distribution.</p>
+            <a href="#">Read more</a>
+        </article>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Wealth Inequality Blog</p>
+    </footer>
+</body>
+</html>
